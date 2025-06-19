@@ -1,4 +1,4 @@
-## Sobre mim
+## Sobre mim 👨‍💻
 <p> Meu nome é Yuri Henrique, tenho 18 anos e sou desenvolvedor full-stack. Sou formado no Ensino Médio com curso técnico em Informática e atualmente estou me preparando para ingressar em Análise e Desenvolvimento de Sistemas. Tenho interesse em evoluir continuamente como profissional, contribuindo com soluções criativas e eficientes no desenvolvimento de software.</p>
  
 <!-- Github Status -->
@@ -8,10 +8,12 @@
     
    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriSilva133&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=tokyonight&text_color=FFFFF9"/>
   </a>
-</div>
+</div><br>
+
+## Tecnologias 🤖
 
 <!-- Databases -->
-<div><br>     
+<div>  
   <img height="30" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
