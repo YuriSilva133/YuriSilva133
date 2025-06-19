@@ -3,9 +3,9 @@
 <!-- Github Status -->
 <div >
   <a href="https://github.com/YuriSilva133">
-   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=YuriSilva133&show_icons=true&theme=tokyonight&hide_border=true&hide=prs&include_all_commits=true&rank_icon=github" />
+   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=YuriSilva133&show_icons=true&theme=tokyonight&hide_border=true&hide=prs&include_all_commits=true&rank_icon=github" />
     
-   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriSilva133&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=tokyonight&text_color=FFFFF9"/>
+   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriSilva133&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=tokyonight&text_color=FFFFF9"/>
   </a>
 </div>
 
