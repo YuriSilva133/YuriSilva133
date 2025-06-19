@@ -1,7 +1,7 @@
 ## Um commit de cada vez... ☕
 
 <!-- Github Status -->
-<div>
+<div >
   <a href="https://github.com/YuriSilva133">
    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=YuriSilva133&show_icons=true&theme=tokyonight&hide_border=true&hide=prs&include_all_commits=true&rank_icon=github" />
     
@@ -26,6 +26,11 @@
   <img align="center" title="Csharp" alt="cs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div> <br>
 
+<!-- Snake-->
+<div align="center">
+  
+  ![snake gif](https://github.com/YuriSilva133/YuriSilva133/blob/output/github-snake-dark.svg) 
+</div>
 
 
 ## Contato
