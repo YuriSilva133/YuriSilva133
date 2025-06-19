@@ -1,7 +1,8 @@
-## Um commit de cada vez... ☕
-
+## Sobre mim
+<p> Meu nome é Yuri Henrique, tenho 18 anos e sou desenvolvedor full-stack. Sou formado no Ensino Médio com curso técnico em Informática e atualmente estou me preparando para ingressar em Análise e Desenvolvimento de Sistemas. Tenho interesse em evoluir continuamente como profissional, contribuindo com soluções criativas e eficientes no desenvolvimento de software.</p>
+ 
 <!-- Github Status -->
-<div >
+<div><br>
   <a href="https://github.com/YuriSilva133">
    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=YuriSilva133&show_icons=true&theme=tokyonight&hide_border=true&hide=prs&include_all_commits=true&rank_icon=github" />
     
@@ -25,6 +26,8 @@
   <img align="center" title="Python" alt="py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" title="Csharp" alt="cs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div> <br>
+
+ ## Um commit de cada vez... ☕
 
 <!-- Snake-->
 <div align="center">
