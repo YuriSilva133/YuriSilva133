@@ -1,5 +1,5 @@
 ## Sobre mim 👨‍💻
-<p> Meu nome é Yuri Henrique, tenho 18 anos e sou desenvolvedor full-stack. Sou formado no Ensino Médio com curso técnico em Informática e atualmente estou me preparando para ingressar em Análise e Desenvolvimento de Sistemas. Tenho interesse em evoluir continuamente como profissional, contribuindo com soluções criativas e eficientes no desenvolvimento de software.</p>
+<p> Meu nome é Yuri Henrique, sou desenvolvedor full-stack com curso técnico em Informática e atualmente estou me preparando para ingressar em Análise e Desenvolvimento de Sistemas. Gosto de criar soluções para problemas simples, mas que podem facilitar algumas atividades, como automatizar um processo ou criar um aplicativo para organizar as ideias.</p>
  
 <!-- Github Status -->
 <div><br>
